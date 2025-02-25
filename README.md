@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # openSIS Classic
 Community Edition version 9.0 (Rel date: 12/31/2022)
 Created by [OS4ED](https://www.os4ed.com/)
@@ -33,3 +34,6 @@ openSIS Community Edition requires
 ## License
 
 openSIS is an Open Source Project licensed under the GNU General Public License, the full license can be found [here](https://github.com/OS4ED/openSIS-Classic/blob/master/docs/License.txt).
+=======
+# my-openSIS-Classic
+>>>>>>> e81d5a24f30d90ee58b6368ee0ffda14709cc0c0
